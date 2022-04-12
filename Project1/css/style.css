@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #EFFFFD;
+}
+.nameIs{
+  position: relative;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.peterTree {
+  width: 20%;
+  border-radius: 20%;
+  padding-bottom: 30px;
+}
+.indexMainDiv {
+  max-width: 100%;
+  background-color: #EFFFFD;
+}
+.navColorLight {
+  background-color: #98BAE7;
+}
+.codingGIF {
+  border-radius: 49%;
+  padding-bottom: 25px;
+}
+hr {
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  border-top: 10px dotted grey;
+  background-color: inherit;
+  width: 7.5%;
+  margin:auto;
+  padding-bottom: 25px;
+}
+footer {
+  background-color: #EEEEEE;
+}
+.buttonMargin {
+  margin-left: 10px;
+}
+.socalMediaButtons {
+  width: 40%;
+  border-radius: 40%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+.contactPadding {
+  padding-bottom: 1.5%;
+}
+.contactSocialPadding {
+  padding-bottom: 2%;
+}
+.backgroundColorMain {
+  background-color: #EFFFFD;
+}
+.contactFooterMargin{
+  margin-top: 16.6%;
+}
+h1 {
+  font-family: Nunito;
+  font-weight: bold;
+  font-size: 3em;
+}
+.langDiv{
+  text-align: center;
+  margin-right: 3%;
+}
+.langFooterMargin {
+  margin-top: 23%;
+}
+.langText {
+  font-size: 1.5em;
+}
+.anek {
+  font-family: Anek Tamil;
+}
+.picMargin {
+  margin-bottom: 5%;
+}
+.picAlign{
+  align-items: center;
+  margin-left: 23%;
+
+}
+.educationDiv {
+  align-items: center;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+.NPLogo {
+  align-items: center;
+  border-radius: 50%;
+}
